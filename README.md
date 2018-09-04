@@ -1,2 +1,2 @@
 # verkefni1
-verkefni1
+[verkefni 1](verkefni1)
